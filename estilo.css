@@ -1,0 +1,15 @@
+@charset "UTF-8";
+form{
+    text-align: center;
+    color: black; 
+    height: 60%;
+    width: 200px;
+    background-color: white;
+    margin-top: nome;
+}
+body{
+    background-color:bisque;
+}
+.fundo{
+    text-align: center;
+}
